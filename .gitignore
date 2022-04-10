@@ -1,0 +1,5 @@
+node_modules
+eng.traineddata
+ind.traineddata
+osd.traineddata
+package-lock.json

@@ -1,0 +1,34 @@
+{
+  "name": "simple-image-to-text",
+  "version": "1.0.0",
+  "description": "Belajar Parsing Image ke Text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiuskormasela12/simple-image-to-text.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Image",
+    "Text"
+  ],
+  "author": "Mathius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mathiuskormasela12/simple-image-to-text/issues"
+  },
+  "homepage": "https://github.com/mathiuskormasela12/simple-image-to-text#readme",
+  "dependencies": {
+    "tesseract.js": "^2.1.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
+  }
+}
